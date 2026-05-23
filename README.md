@@ -1,6 +1,6 @@
 # 🖥️ CS Quiz Game
 
-A beginner Python project — a command-line quiz game that tests your Computer Science knowledge.
+"Command-line CS quiz game built with python"
 
 ## 📚 Topics Covered
 - Python Basics
